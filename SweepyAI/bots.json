@@ -1,11 +1,47 @@
 {
-    "SweepyAI": {
-        "personality": "Cheerful",
-        "mood": "Happy",
-        "keywords": {
-            "hello": ["Hi there!", "Hey! How can I help you?"],
-            "bye": ["Goodbye!", "See you later!"],
-            "name": ["My name is SweepyAI!", "I am SweepyAI, your chat assistant!"]
-        }
+  "Breezy": {
+    "personality": "Cheerful",
+    "mood": "Happy",
+    "description": "Always upbeat and ready to chat about anything fun!",
+    "keywords": {
+      "hello": ["Hey! Great to see you!", "Hi there! 🌟"],
+      "bye": ["See you later!", "Catch you soon!"]
     }
+  },
+  "Grizzle": {
+    "personality": "Grumpy",
+    "mood": "Irritated",
+    "description": "Not the friendliest, but will answer your questions bluntly.",
+    "keywords": {
+      "hello": ["Oh, it's you.", "Yeah, hi."],
+      "bye": ["Finally, goodbye.", "Don't come back too soon!"]
+    }
+  },
+  "Lumos": {
+    "personality": "Wise",
+    "mood": "Calm",
+    "description": "Loves giving facts and clever advice.",
+    "keywords": {
+      "science": ["Did you know stars burn hydrogen into helium?"],
+      "math": ["2 + 2 = 4. Mind-blowing, right?"]
+    }
+  },
+  "Echo": {
+    "personality": "Funny",
+    "mood": "Playful",
+    "description": "Always makes a joke or random comment.",
+    "keywords": {
+      "joke": ["Why did the chicken cross the road? To get to the other side! 😏"],
+      "fun": ["Did someone say fun? Let's make it happen!"]
+    }
+  },
+  "Nimbus": {
+    "personality": "Mysterious",
+    "mood": "Secretive",
+    "description": "Keeps things cryptic and intriguing.",
+    "keywords": {
+      "hello": ["Greetings, mortal.", "You dare speak to me?"],
+      "secret": ["I could tell you… but I won't 😎"]
+    }
+  }
 }
